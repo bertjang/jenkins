@@ -4,7 +4,7 @@
                      http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>kokkan</groupId>
-    <artifactId>my-test-project</artifactId>
+    <artifactId>sample</artifactId>
     <version>1.0.0</version>
     <packaging>war</packaging>
 
