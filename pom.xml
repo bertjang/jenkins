@@ -18,7 +18,7 @@
                     <!-- <source>1.8</source>
                     <target>1.8</target> -->
                     <showWarnings>true</showWarnings>
-                    
+                    <encoding>utf-8</encoding>
                 </configuration>
             </plugin>
 
@@ -33,7 +33,7 @@
                     <username>tomcat</username>
                     <password>tomcat</password>
                     <uriEncoding>UTF-8</uriEncoding>
-                    <!--<update>true</update>-->
+                    
                 </configuration>
             </plugin> -->
             
