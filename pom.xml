@@ -7,7 +7,7 @@
   <artifactId>my-test-project</artifactId>
   <configuration>
         <webXml>WEB-INF\web.xml</webXml>
-    </configuration>
+  </configuration>
   <version>3.8.5</version>
   <packaging>war</packaging>
 </project> 
