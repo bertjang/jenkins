@@ -13,6 +13,7 @@
         <plugins>
             <plugin>
                 <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.5</version>
                 <configuration>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
                     <webXml>${project.build.directory}\WEB-INF\web.xml</webXml>
